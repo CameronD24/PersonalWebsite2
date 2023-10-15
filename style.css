@@ -40,10 +40,12 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 a {
   padding: 10px;
 }
+/* for body and main added margin to the bottom so text is more visible. */
 body {
   /* cursor: none; */
 background-color: lightslategray;
 padding: 0;
+margin-bottom: 50px;
 }
 h2 {
   text-decoration: underline;
@@ -112,6 +114,9 @@ main{
   color: floralwhite;
   font-style: italic;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(70, 70, 96);
+  margin: calc(20px + 15px);
+  margin-bottom: 70px;
 }
 .input2 {
   color: red !important;

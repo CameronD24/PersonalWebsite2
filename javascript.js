@@ -10,3 +10,5 @@
 //   cursorOutline.computedStyleMap.left = `${posX}px`;
 //   cursorOutline.computedStyleMap.top = `${posY}px`;
 // });
+const intromessage('Your information has been recorded, you may now close this window')
+alert(intromessage)
